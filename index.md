@@ -17,22 +17,22 @@ Please note this is a recommended shopping list for those whom would like to bui
 2. [L298N Motor Drive Controller](https://www.amazon.com/gp/product/B014KMHSW6/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
 3. [Ardokit Smart Robot Car Chassis Kit Speed Encoder Battery Box For Arduino](https://www.amazon.com/gp/product/B00K5OWHXO/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
 4. [Kuman Project Complete Starter Kit with Tutorial and Reliable Components for Arduino UNO R3 Mega 2560 Robot Nano breadboard Kits](https://www.amazon.com/gp/product/B016D5KUHS/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
-  1. The reason I'm suggesting this kit is because I found it to be a good price for all the parts it includes:
+   1. The reason I'm suggesting this kit is because I found it to be a good price for all the parts it includes:
      1. mini breadboard
      2. full breadboard
      3. LED's
      4. Sonar Sensor
      5. Resistors
      6. Cables
-5. 4 AA Batteries to power your motors
-6. Micro USB Cable to power your Raspberry 3
-7. **OPTIONAL** Web Cameras
-  1. The web camera will be uses to see through the eyes of our drones.
-    1. **OPTIONAL** [Raspberry Pi Camera v2](https://www.amazon.com/Raspberry-Pi-Camera-Module-Megapixel/dp/B01ER2SKFS/ref=sr_1_1?s=pc&ie=UTF8&qid=1486437106&sr=1-1&keywords=Raspberry+pi+camera+2.1)
-   2. **OPTIONAL** Any Old USB WEB CAMERA
-8. **OPTIONAL** Micro USB Cell External phone battery pack.
-This will let us be able to let our drones be remote controlled and autonomous
+5. Any 4 AA Batteries to power your motors
+6. Any Micro USB Cable to power your Raspberry 3
+7. Any Micro USB External Cell Phone Battery Pack
 
+_Web Cameras for seeing through the eyes of your drone_.
+
+**OPTIONAL** [Raspberry Pi Camera v2](https://www.amazon.com/Raspberry-Pi-Camera-Module-Megapixel/dp/B01ER2SKFS/ref=sr_1_1?s=pc&ie=UTF8&qid=1486437106&sr=1-1&keywords=Raspberry+pi+camera+2.1)
+
+**OPTIONAL** Any Old USB WEB CAMERA
 
 
 
