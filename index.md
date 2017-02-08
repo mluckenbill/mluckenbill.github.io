@@ -13,6 +13,7 @@ Please note this is a recommended shopping list for those whom would like to bui
 
 **Part List**
 
+1. [16GB Micro SD Card with Adapter](https://www.amazon.com/Samsung-MicroSDXC-Adapter-MB-MP16DA-AM/dp/B00IVPU7KE/ref=sr_1_23?s=pc&ie=UTF8&qid=1486521853&sr=1-23&keywords=micro+sd+card)
 1. [Raspberry Pi 3](https://www.amazon.com/Raspberry-Pi-RASP-PI-3-Model-Motherboard/dp/B01CD5VC92)
 2. [L298N Motor Drive Controller](https://www.amazon.com/gp/product/B014KMHSW6/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
 3. [Ardokit Smart Robot Car Chassis Kit Speed Encoder Battery Box For Arduino](https://www.amazon.com/gp/product/B00K5OWHXO/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
