@@ -1,4 +1,4 @@
-# Philly Code Camp Friday Session 2/17/2017
+# Philly Code Camp Friday Session 2/24/2017
 
 ## Welcome Everyone
 Hi, my name is Michael M. Luckenbill and it's a pleasure to meet you :smiley:.
